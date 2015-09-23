@@ -5,7 +5,7 @@
 body {
     background-color: #F9FAF4;
     background: url("http://annycampbell.me/background.jpg");
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: top-center;
 }
@@ -14,8 +14,13 @@ img {
   border-color: #1F0308
 }
 
-i, span {
-    color: #F9FAF4;
+
+span, .lead {
+    color: black;
 }
 
 
+hr {
+    border-top: 2px solid;
+    margin-top: 50px;
+}
