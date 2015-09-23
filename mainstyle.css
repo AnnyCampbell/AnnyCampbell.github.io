@@ -15,16 +15,16 @@ img {
 
 
 .lead, i, b {
-    color: black;
+    color: #1F1F23;
 }
 
 
 hr {
     border-top: 2px solid;
     margin-top: 50px;
-    color: black;
+    color: #1F1F23;
 }
 
 .thin-grey-border { 
-    border-color: black; border-width: 3px; border-style: solid; 
+    border-color: #1F1F23; border-width: 3px; border-style: solid; 
 } 
