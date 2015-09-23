@@ -1,0 +1,21 @@
+@import url("http://bootswatch.com/cosmo/bootstrap.min.css");
+@import url("http://bootswatch.com/yeti/bootstrap.min.css");
+@import url("http://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css");
+
+body {
+    background-color: #F9FAF4;
+    background: url("http://annycampbell.me/background.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top-center;
+}
+
+img {
+  border-color: #1F0308
+}
+
+i, span {
+    color: #F9FAF4;
+}
+
+
