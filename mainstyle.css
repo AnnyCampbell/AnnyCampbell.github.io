@@ -3,7 +3,7 @@
 @import url("http://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css");
 
 body {
-    background: url("http://annycampbell.me/background.jpg");
+    background: url("http://annycampbell.me/background2.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top-center;
@@ -14,16 +14,17 @@ img {
 }
 
 
-.lead, i {
-    color: #232429;
+.lead, i, b {
+    color: black;
 }
 
 
 hr {
     border-top: 2px solid;
     margin-top: 50px;
+    color: black;
 }
 
 .thin-grey-border { 
-    border-color: #232429; border-width: 3px; border-style: solid; 
+    border-color: black; border-width: 3px; border-style: solid; 
 } 
