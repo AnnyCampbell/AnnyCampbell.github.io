@@ -4,10 +4,12 @@
 
 body {
     background: url("http://annycampbell.me/background2.jpg");
+    background-color: black;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top-center;
 }
+
 
 img {
   border-color: #232429
